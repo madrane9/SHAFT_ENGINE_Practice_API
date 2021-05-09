@@ -1,0 +1,26 @@
+[2021-05-10T00:41:41+0200] [SEVERE] https://www.phptravels.net/home 24:47 Uncaught TypeError: Cannot read property 'remove' of null
+[2021-05-10T00:41:41+0200] [SEVERE] https://www.phptravels.net/home 1001:33 Uncaught SyntaxError: missing ) after argument list
+[2021-05-10T00:41:42+0200] [INFO] https://www.phptravels.net/themes/default/assets/js/plugins.js 31:551 "JQMIGRATE: Migrate is installed, version 1.4.1"
+[2021-05-10T00:41:42+0200] [SEVERE] https://www.phptravels.net/home 2484:5 Uncaught SyntaxError: Unexpected token ','
+[2021-05-10T00:41:42+0200] [SEVERE] https://www.phptravels.net/home 2590:8 Uncaught ReferenceError: fmt is not defined
+[2021-05-10T00:41:42+0200] [SEVERE] https://www.phptravels.net/home 2615:8 Uncaught ReferenceError: fmt is not defined
+[2021-05-10T00:41:42+0200] [SEVERE] https://www.phptravels.net/home 2640:8 Uncaught ReferenceError: fmt is not defined
+[2021-05-10T00:41:42+0200] [WARNING] https://www.phptravels.net/home - [DOM] Found 3 elements with non-unique id #DateTours: (More info: https://goo.gl/9p2vKq) %o %o %o
+[2021-05-10T00:41:42+0200] [WARNING] https://www.phptravels.net/home - [DOM] Found 3 elements with non-unique id #txtsearch: (More info: https://goo.gl/9p2vKq) %o %o %o
+[2021-05-10T00:41:43+0200] [INFO] https://www.phptravels.net/home 2380:8 "show"
+[2021-05-10T00:41:43+0200] [WARNING] https://www.phptravels.net/home - Failed to decode downloaded font: https://www.phptravels.net/themes/default/Muli-Bold.woff
+[2021-05-10T00:41:43+0200] [WARNING] https://www.phptravels.net/home - OTS parsing error: invalid sfntVersion: 1008821359
+[2021-05-10T00:42:06+0200] [SEVERE] https://www.phptravels.net/register 24:47 Uncaught TypeError: Cannot read property 'remove' of null
+[2021-05-10T00:42:06+0200] [INFO] https://www.phptravels.net/themes/default/assets/js/plugins.js 31:551 "JQMIGRATE: Migrate is installed, version 1.4.1"
+[2021-05-10T00:42:06+0200] [SEVERE] javascript 0:1010 Uncaught ReferenceError: google is not defined
+[2021-05-10T00:42:06+0200] [SEVERE] https://www.phptravels.net/register 702:5 Uncaught SyntaxError: Unexpected token ','
+[2021-05-10T00:42:06+0200] [SEVERE] https://www.phptravels.net/register 808:8 Uncaught ReferenceError: fmt is not defined
+[2021-05-10T00:42:06+0200] [SEVERE] https://www.phptravels.net/register 833:8 Uncaught ReferenceError: fmt is not defined
+[2021-05-10T00:42:06+0200] [SEVERE] https://www.phptravels.net/register 858:8 Uncaught ReferenceError: fmt is not defined
+[2021-05-10T00:42:06+0200] [INFO] https://www.phptravels.net/themes/default/assets/js/custom-detail-map.js 83:12 "fff"
+[2021-05-10T00:42:06+0200] [SEVERE] https://www.phptravels.net/themes/default/assets/js/custom-detail-map.js 7:17 Uncaught ReferenceError: google is not defined
+[2021-05-10T00:42:06+0200] [FINE] https://www.phptravels.net/register - [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-05-10T00:42:06+0200] [FINE] https://www.phptravels.net/register - [DOM] Input elements should have autocomplete attributes (suggested: "new-password"): (More info: https://goo.gl/9p2vKq) %o
+[2021-05-10T00:42:07+0200] [WARNING] https://www.phptravels.net/register - Failed to decode downloaded font: https://www.phptravels.net/themes/default/Muli-Bold.woff
+[2021-05-10T00:42:07+0200] [WARNING] https://www.phptravels.net/register - OTS parsing error: invalid sfntVersion: 1008821359
+[2021-05-10T00:42:07+0200] [INFO] https://www.phptravels.net/register 598:8 "show"

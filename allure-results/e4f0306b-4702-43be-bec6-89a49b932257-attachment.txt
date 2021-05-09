@@ -1,0 +1,19 @@
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[tests.SignUp_POM.signUp]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210510-004131", Target File: "\1620600120369_signUp.gif"]. @10-05-2021 00:42:00.0975 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [MY ACCOUNT]. @10-05-2021 00:42:04.0048 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [Sign Up]. @10-05-2021 00:42:08.0649 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test]. @10-05-2021 00:42:09.0670 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test11]. @10-05-2021 00:42:10.0942 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [12344]. @10-05-2021 00:42:11.0866 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test11123@test.de]. @10-05-2021 00:42:12.0770 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test11344]. @10-05-2021 00:42:13.0734 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test11344]. @10-05-2021 00:42:14.0815 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [SIGN UP]. @10-05-2021 00:42:18.0021 AM
+[ReportManager] Element Action [identifyUniqueElement] failed. With the following test data [zero elements found matching this locator "By.xpath: //h3[contains(.,'Hi, ')]".]. @10-05-2021 00:42:45.0857 AM
+[ReportManager] Successfully created attachment [Screenshot - 1620600164051_signUp_identifyUniqueElement_failed] @10-05-2021 00:42:45.0941 AM
+[ReportManager] Successfully created attachment [Video Recording - signUp] @10-05-2021 00:43:05.0560 AM
+[ReportManager] Successfully created attachment [Animated Gif - signUp] @10-05-2021 00:43:05.0579 AM

@@ -1,0 +1,42 @@
+################################################################################################################################################
+Detected SHAFT Engine Version: [SHAFT Engine v5.2.20210427]
+################################################################################################################################################
+[ReportManager] File Action [getAbsolutePath] successfully performed. With the following test data [Relative Folder Path: "target/downloadedFiles/"]. @10-05-2021 00:41:34.0104 AM
+[ReportManager] Attempting to run locally on: [Windows-64], [GoogleChrome]. @10-05-2021 00:41:34.0226 AM
+[ReportManager] Identifying OS/Driver combination and selecting the correct driver version automatically. Please note that if a new driver executable will be downloaded it may take some time... @10-05-2021 00:41:34.0226 AM
+[ReportManager] Successfully Opened Google Chrome. @10-05-2021 00:41:38.0215 AM
+[ReportManager] Target URL: [https://www.phptravels.net/home] @10-05-2021 00:41:38.0255 AM
+[ReportManager] Initial URL: [data:,] @10-05-2021 00:41:38.0302 AM
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210510-004131", Target File: "\1620600108344_BeforeClass.gif"]. @10-05-2021 00:41:49.0817 AM
+[ReportManager] Browser Action [navigateToURL] successfully performed. With the following test data [https://www.phptravels.net/home]. @10-05-2021 00:41:51.0072 AM
+[ReportManager] Successfully created attachment [Video Recording - BeforeClass] @10-05-2021 00:41:58.0387 AM
+[ReportManager] Successfully created attachment [Animated Gif - BeforeClass] @10-05-2021 00:41:58.0387 AM
+
+################################################################################################################################################
+Starting Execution:	[1 out of 1] test cases in the current suite
+Test Method:		[tests.SignUp_POM.signUp]
+################################################################################################################################################
+[ReportManager] File Action [createFile] successfully performed. With the following test data [Target Folder: "allure-results//screenshots/20210510-004131", Target File: "\1620600120369_signUp.gif"]. @10-05-2021 00:42:00.0975 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [MY ACCOUNT]. @10-05-2021 00:42:04.0048 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [Sign Up]. @10-05-2021 00:42:08.0649 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test]. @10-05-2021 00:42:09.0670 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test11]. @10-05-2021 00:42:10.0942 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [12344]. @10-05-2021 00:42:11.0866 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test11123@test.de]. @10-05-2021 00:42:12.0770 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test11344]. @10-05-2021 00:42:13.0734 AM
+[ReportManager] Element Action [type] successfully performed. With the following test data [test11344]. @10-05-2021 00:42:14.0815 AM
+[ReportManager] Element Action [click] successfully performed. With the following test data [SIGN UP]. @10-05-2021 00:42:18.0021 AM
+[ReportManager] Element Action [identifyUniqueElement] failed. With the following test data [zero elements found matching this locator "By.xpath: //h3[contains(.,'Hi, ')]".]. @10-05-2021 00:42:45.0857 AM
+[ReportManager] Successfully created attachment [Screenshot - 1620600164051_signUp_identifyUniqueElement_failed] @10-05-2021 00:42:45.0941 AM
+[ReportManager] Successfully created attachment [Video Recording - signUp] @10-05-2021 00:43:05.0560 AM
+[ReportManager] Successfully created attachment [Animated Gif - signUp] @10-05-2021 00:43:05.0579 AM
+
+################################################################################################################################################
+Test Closure Activities
+################################################################################################################################################
+[ReportManager] Successfully created attachment [SHAFT Engine Logs - Execution log] @10-05-2021 00:43:07.0763 AM
+
+################################################################################################################################################
+This test run was powered by SHAFT Engine Version: [SHAFT Engine v5.2.20210427]
+SHAFT Engine is licensed under the MIT License: [https://github.com/MohabMohie/SHAFT_ENGINE/blob/master/LICENSE].
+################################################################################################################################################
